@@ -22,7 +22,7 @@ M.default = {
 	light_green = "#9dca8c",
 	light_cyan = "#94cdd1",
 	light_blue = "#afc5de",
-	light_pink = "#a994b8",
+	light_pink = "#a486ba",
 	none = "NONE",
 }
 
