@@ -15,14 +15,14 @@ M.default = {
 	green = "#83aa74",
 	cyan = "#77adb1",
 	blue = "#889bb4",
-	pink = "#a994b8",
+	pink = "#a482bc",
 	disabled = "#2e313d",
 	light_red = "#fead90",
 	light_yellow = "#dbc380",
 	light_green = "#9dca8c",
 	light_cyan = "#94cdd1",
 	light_blue = "#afc5de",
-	light_pink = "#cdb6dd",
+	light_pink = "#a994b8",
 	none = "NONE",
 }
 
